@@ -1,1 +1,2 @@
-# rsschool-2019Q1-html-css
+Sviataslau Famin
+HTML CSS Basics: https://www.codecademy.com/users/slavik-28/achievements
